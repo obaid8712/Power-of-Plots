@@ -10,11 +10,15 @@ Average Fare ($) Per City
 Total Number of Rides Per City
 Total Number of Drivers Per City
 City Type (Urban, Suburban, Rural)
-![GitHub Logo]()
+
+![GitHub Logo](https://github.com/obaid8712/Power-of-Plots/blob/master/Project-01/Pyber/image/RideShare.png)
+
 In addition, you will be expected to produce the following three pie charts:
 
 % of Total Fares by City Type
+
 ![GitHub Logo]()
+
 % of Total Rides by City Type
 ![GitHub Logo]()
 % of Total Drivers by City Type
