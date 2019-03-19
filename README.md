@@ -33,5 +33,5 @@ After hard work team found following figure for CEO, Thanks to matplot and pytho
 * The average fare rate is lower at Urban area in compaire with rural and Suburban area.
 * The large share of total fare is in Urban area 62%.
 * The large share of total ride is also in Urban area 68%.
-* The total no of driver is also in Urban area 86%.
+* The total no of driver is also in Urban area 80%.
 * The rural area is least develop in terms of communication like road, mobile phone, internet etc.
