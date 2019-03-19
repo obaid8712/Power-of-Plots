@@ -15,7 +15,7 @@ After hard work team found following figure for CEO, Thanks to matplot and pytho
 
 ![GitHub Logo](https://github.com/obaid8712/Power-of-Plots/blob/master/Project-01/Pyber/image/RideShare.png)
 
-### In addition, team will try to produce the following three pie charts:
+### In addition, team had tryed to produce the following three pie charts:
 
 * % of Total Fares by City Type
 
