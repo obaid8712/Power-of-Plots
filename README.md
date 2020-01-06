@@ -1,4 +1,4 @@
-# Power-of-Plots
+# Power-of-Plots:
 
 The ride sharing bonanza continues! Seeing the success of notable players like Uber and Lyft, CEO decided to do some Data analysis at this time. CEO and Chief Data analyst discussed this issue at length and Data analysis team will be expected to offer data-backed guidance on new opportunities for market differentiation.
 
